@@ -1,10 +1,9 @@
-<video width="560" height="315" controls>
-  <source src="https://telegra.ph/file/7179860e8634bd3d453e6.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">  
+    <img src="https://telegra.ph/file/4d347b0d92e12fc9c0774.jpg" alt="Johan's Image" width="560">
+    <h1 align="center"><marquee behavior="scroll" direction="left">Hi 👋 Johan Here</marquee></h1>
+</p>
 
-<h1 align="center"><marquee behavior="scroll" direction="left">Hi 👋 Johan Here</marquee></h1>
-
-<h3>
-I'm a beginner developer 
+<h3 align="center">
+    I'm a beginner developer 
 </h3>
+

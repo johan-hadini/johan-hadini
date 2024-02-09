@@ -9,12 +9,6 @@
     <img align="middle" src="https://profile-counter.glitch.me/Guru322/count.svg" />
 </p>
 
-## Where to find me
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Guru322)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hommerl)
-
-## Listening to
 <p align = "middle">
 <img width = '60.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=31d3ueeg2sx2hc6bc6etfnkz5uru&cover_image=true&theme=novatorem&show_offline=false&background_color=1c9b1c&interchange=true&bar_color=d03524&bar_color_cover=false"/>
 </p>

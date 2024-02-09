@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCPsV9AFg6mjqCvRdmTQL1Mg" alt="follow" title="youtupe">
-    <img src="https://img.shields.io/badge/youtube"/></a>
+    <img src="https://img.shields.io/youtube/just%20the%20follow-8A2BE2"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>

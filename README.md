@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCPsV9AFg6mjqCvRdmTQL1Mg" alt="follow" title="youtupe">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+    <img src="https://www.google.fr/url?sa=i&url=https%3A%2F%2Fwww.graphiline.com%2Farticle%2F26441%2Fyoutube-change-logo&psig=AOvVaw3C-KPx69JeysScsR4GOcUa&ust=1707557694508000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDOx6H6nYQDFQAAAAAdAAAAABAD"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>

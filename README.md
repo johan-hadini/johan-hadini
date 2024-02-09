@@ -1,9 +1,7 @@
 <p align="center">  
-  <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://avatars.githubusercontent.com/u/106463398?v=4">
-    <h1 align="center">Hi 👋 Johan Here</h1>
-
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oifHrCyne28" frameborder="0" allowfullscreen></iframe>
+    <h1 align="center"><marquee behavior="scroll" direction="left">Hi 👋 Johan Here</marquee></h1>
+</p>
 
 <h3>
 I'm a beginner developer 

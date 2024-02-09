@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCPsV9AFg6mjqCvRdmTQL1Mg" alt="Users" title="youtupe">
+  <a href="https://www.youtube.com/channel/UCPsV9AFg6mjqCvRdmTQL1Mg" alt="follow me" title="youtupe">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>

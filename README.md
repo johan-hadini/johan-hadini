@@ -1,7 +1,10 @@
-<iframe width="560" height="315" src="https://telegra.ph/file/7179860e8634bd3d453e6.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="https://telegra.ph/file/7179860e8634bd3d453e6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<h1 align="center">Hi 👋 Johan Here</h1>
-<h3 align="center">I'm a beginner developer</h3>
+<h1 align="center"><marquee behavior="scroll" direction="left">Hi 👋 Johan Here</marquee></h1>
 
-
-
+<h3>
+I'm a beginner developer 
+</h3>

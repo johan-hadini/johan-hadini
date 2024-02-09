@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
 <style>
   /* تحريك النص باستخدام CSS */
   @keyframes marquee {
@@ -10,6 +16,8 @@
     animation: marquee 10s linear infinite;
   }
 </style>
+</head>
+<body>
 
 <p align="center">  
     <img src="https://telegra.ph/file/4d347b0d92e12fc9c0774.jpg" alt="Johan's Image" width="560">
@@ -21,4 +29,5 @@
     I'm a beginner developer 
 </h3>
 
-
+</body>
+</html>

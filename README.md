@@ -9,4 +9,4 @@
 <a href="https://i.imgur.com/5230tSL.jpg">
   <img src="image.jpg" alt="images.jpg">
 </a>
-<img src="https://i.imgur.com/5230tSL.jpg" width="400" height="230"/>
+<img src="https://i.imgur.com/5230tSL.jpg" />

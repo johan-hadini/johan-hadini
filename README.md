@@ -11,5 +11,5 @@
 </a>
 <img src="https://i.imgur.com/5230tSL.jpg" />
 عدد زائرين
-<p align="center"><img src="https://profile-counter.glitch.me/{BK9-dev}/count.svg" alt="BK9-dev :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{johan-hadini}/count.svg" alt="johan-hadini :: Visitor's Count" /></p>
  

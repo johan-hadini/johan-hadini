@@ -10,3 +10,6 @@
   <img src="https://i.imgur.com/ujYTev3.png" alt="tiktok" width="120" height="120">
 </a>
 <img src="https://i.imgur.com/5230tSL.jpg" />
+عدد زائرين
+<p align="center"><img src="https://profile-counter.glitch.me/{BK9-dev}/count.svg" alt="BK9-dev :: Visitor's Count" /></p>
+ 
